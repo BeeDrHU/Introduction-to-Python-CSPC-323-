@@ -132,7 +132,7 @@ print(host)
 fhand = open('mbox.txt')
 print(fhand)
 
-######################
+#######################
 ### text file and lines
 ######################
 
