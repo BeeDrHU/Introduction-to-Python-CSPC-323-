@@ -290,7 +290,7 @@ while (True):
 average = sum(numlist) / len(numlist)
 print('Average:', average)
 
-######################
+#######################
 ### Lists and Strings
 ######################
 
