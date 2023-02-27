@@ -1,4 +1,4 @@
-Date,Date.1,Min°F,Avg°F,Max°F,Avg1.5m DP°F,Avg1.5m RH%,Avg1.5m LWu.,AvgDir,Avg Speedmph,2m MaxGustmph,2 in.°F,Min°F.1,Avg°F.1,TotPrecin,TotalSolarRadMJ/m²,EToin,ETrin
+date,Date.1,Min_F,Avg_F,Max_F,Avg1.5m_DP,Avg1.5m_RH,Avg1.5m_LWu,AvgDir,Avg_Speedmph,2m_MaxGustmph,2_in_F,Min_F.1,Avg_F.1,TotPrecin,TotalSolarRad,EToin,ETrin
 2012/06/11,11,46.8,63.8,78.4,41.4,47.1,0,S,3.1,12.8,,63.8,69.8,0,29.91,0.22,0.26
 2012/06/12,12,55.1,65.9,76.8,47.5,52.4,0,SW,4.8,20.3,,69.2,72.9,0,20.81,0.19,0.24
 2012/06/13,13,44.1,61.5,71,36.5,40.9,0,W,7,19.6,,68.2,73,0,32.3,0.24,0.32
